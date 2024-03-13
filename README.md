@@ -1,2 +1,3 @@
 # dd-repo
-intended for learning
+## initial remarks
+intended for learning. it contains my code.
